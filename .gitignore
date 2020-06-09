@@ -115,8 +115,3 @@ dist
 .pnp.*
 
 # IDE hidden folders for configuration
-
-
-node_modules
-.idea/
-.vscode
