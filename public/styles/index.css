@@ -251,6 +251,44 @@ nav a:hover::before {
 /* @Innovarto  and @Kelvinakpobome - about us section end */
 
 /* @tomii and @charles onuorah - footer section start */
+.wrapper{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.footer-btn{
+color: white;
+font-size: 1rem;
+font-family: 'Poppins', sans-serif;
+font-weight: 600;
+background-color: #31AA52;
+border: 2px solid #31AA52;
+padding: .75rem 1.5rem;
+margin-left: 2rem;}
+
+.footer-btn:hover {
+    background-color: #268228;
+    border: 2px solid #268228;
+    cursor: pointer;
+}
+
+.row-1 {
+    background: white;
+    padding: 80px 0 80px 0;
+}
+.row-1 p{
+    margin: 0 0 30px 0;
+    font-weight: 200px;
+    font-size: 40px;
+    text-align: center;
+}
+.row-2{
+    background-color: #f5f5f5;
+}
+.row-2 p{
+    padding : 5px 0 5px 0;
+    text-align:center;
+}
 
 /* @tomii and @charles onuorah - footer section end */
 
@@ -310,6 +348,46 @@ nav a:hover::before {
   /* @Innovarto  and @Kelvinakpobome - about us section end */
 
   /* @tomii and @charles onuorah - footer section start */
+ .wrapper{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.footer-btn{
+color: white;
+font-size: 1rem;
+font-family: 'Poppins', sans-serif;
+font-weight: 600;
+background-color: #31AA52;
+border: 2px solid #31AA52;
+padding: .75rem 1.5rem;
+margin-left: 2rem;}
+
+.footer-btn:hover {
+    background-color: #268228;
+    border: 2px solid #268228;
+    cursor: pointer;
+}
+
+.row-1 {
+    background: white;
+    padding: 80px 0 80px 0;
+}
+.row-1 p{
+    margin: 0 0 30px 0;
+    font-weight: 200px;
+    font-size: 40px;
+    text-align: center;
+}
+.row-2{
+    background-color: #f5f5f5;
+}
+.row-2 p{
+    padding : 5px 0 5px 0;
+    text-align:center;
+}
+
+
   /* @tomii and @charles onuorah - footer section end */
 }
 
@@ -331,6 +409,47 @@ nav a:hover::before {
   /* @Innovarto  and @Kelvinakpobome - about us section start */
   /* @Innovarto  and @Kelvinakpobome - about us section end */
   /* @tomii and @charles onuorah - footer section start */
+  
+.wrapper{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.footer-btn{
+color: white;
+font-size: 1rem;
+font-family: 'Poppins', sans-serif;
+font-weight: 600;
+background-color: #31AA52;
+border: 2px solid #31AA52;
+padding: .75rem 1.5rem;
+margin-left: 2rem;}
+
+.footer-btn:hover {
+    background-color: #268228;
+    border: 2px solid #268228;
+    cursor: pointer;
+}
+
+.row-1 {
+    background: white;
+    padding: 80px 0 80px 0;
+}
+.row-1 p{
+    margin: 0 0 30px 0;
+    font-weight: 200px;
+    font-size: 40px;
+    text-align: center;
+}
+.row-2{
+    background-color: #f5f5f5;
+}
+.row-2 p{
+    padding : 5px 0 5px 0;
+    text-align:center;
+}
+
+
   /* @tomii and @charles onuorah - footer section end */
 }
 
@@ -352,6 +471,45 @@ nav a:hover::before {
   /* @Innovarto  and @Kelvinakpobome - about us section start */
   /* @Innovarto  and @Kelvinakpobome - about us section end */
   /* @tomii and @charles onuorah - footer section start */
+  .wrapper{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.footer-btn{
+color: white;
+font-size: 1rem;
+font-family: 'Poppins', sans-serif;
+font-weight: 600;
+background-color: #31AA52;
+border: 2px solid #31AA52;
+padding: .75rem 1.5rem;
+margin-left: 2rem;}
+
+.footer-btn:hover {
+    background-color: #268228;
+    border: 2px solid #268228;
+    cursor: pointer;
+}
+
+.row-1 {
+    background: white;
+    padding: 80px 0 80px 0;
+}
+.row-1 p{
+    margin: 0 0 30px 0;
+    font-weight: 200px;
+    font-size: 40px;
+    text-align: center;
+}
+.row-2{
+    background-color: #f5f5f5;
+}
+.row-2 p{
+    padding : 5px 0 5px 0;
+    text-align:center;
+}
+
   /* @tomii and @charles onuorah - footer section end */
 }
 
@@ -423,5 +581,44 @@ nav a:hover::before {
   /* @Innovarto  and @Kelvinakpobome - about us section start */
   /* @Innovarto  and @Kelvinakpobome - about us section end */
   /* @tomii and @charles onuorah - footer section start */
+  .wrapper{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.footer-btn{
+color: white;
+font-size: 1rem;
+font-family: 'Poppins', sans-serif;
+font-weight: 600;
+background-color: #31AA52;
+border: 2px solid #31AA52;
+padding: .75rem 1.5rem;
+margin-left: 2rem;}
+
+.footer-btn:hover {
+    background-color: #268228;
+    border: 2px solid #268228;
+    cursor: pointer;
+}
+
+.row-1 {
+    background: white;
+    padding: 80px 0 80px 0;
+}
+.row-1 p{
+    margin: 0 0 30px 0;
+    font-weight: 200px;
+    font-size: 40px;
+    text-align: center;
+}
+.row-2{
+    background-color: #f5f5f5;
+}
+.row-2 p{
+    padding : 5px 0 5px 0;
+    text-align:center;
+}
+
   /* @tomii and @charles onuorah - footer section end */
 }
